@@ -1,5 +1,5 @@
 # LM
-Commencement of pursuing learning Machine. 
+Pursuing learning Machine. 
 
 
 ## Blogs 2 Flowww
